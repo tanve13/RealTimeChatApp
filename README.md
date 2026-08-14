@@ -1,4 +1,4 @@
-# RealTimeChatApp 
+# RealTimeChatApp  
 
 A simple **real-time chat application** built using **Kotlin, Jetpack Compose, and OkHttp WebSocket**.  
 This app demonstrates how to connect to a WebSocket server, listen for messages, and update the UI reactively with **StateFlow**.
